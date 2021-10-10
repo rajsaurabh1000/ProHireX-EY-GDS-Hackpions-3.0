@@ -1,0 +1,43 @@
+At EY, you will have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we are counting on your unique voice and perspective to help EY become even better too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+ 
+
+Intro – Machine Learning Engineer (Senior Associate)
+
+The AI@EY Team is looking for a Machine Learning Engineer with a background in machine learning (ML) and deep learning (DL) technologies to help design and build cutting edge AI solutions. The AI@EY Team is creating innovative AI technology and products that will transform EY and our clients. The successful candidate will be part of a team building innovative AI solutions that rely on AI and ML techniques including but not limited to natural language processing, computer vision, deep learning, and machine learning.
+
+The AI@EY Team is creating a model for how AI can reinvent large companies, and industries. Through EY’s network of more than 250,000 professionals working in every sector, we have an opportunity to offer AI products and services that transform how business is done in all types of enterprises and to realize the vision of building a better working world.
+
+You’ll help with substantial parts of developing and implementing a wide range of machine learning models to documents, images and structured data. You will drive development of large portions of critical project deliverables.  You may guide other engineers, estimate task effort and communicate your approach and results effectively.
+
+Responsibilities, Qualifications, Certifications - External
+
+About You
+
+MS or PhD in CS, ECE, EE or related disciplines
+You can take a large a big problem, decompose it into smaller parts and own delivering the whole solution
+You have expertise in one or more object-oriented languages, including Python, Go, Java, Scala, or C++, and an eagerness to learn more
+You have experience with both machine learning, deep learning and building software
+You have experience with databases
+Machine learning domain knowledge—bias-variance tradeoff, exploration/exploitation—and understanding of various model families, including neural net, decision trees, Bayesian models, instance-based learning, association learning, and deep learning algorithms
+You have the ability to solve complex business problems and apply machine learning to problems no one has ever attempted before
+You follow a strong adherence to metrics driven development, with a disciplined and analytical approach to product development
+
+Bonus points if
+
+You have experience in statistics
+You enjoy reading academic papers and implementing experimental systems
+Experience developing complex software systems that have been deployed to an active userbase
+You have experience presenting at industry recognized ML conferences as well as being published in the field
+You have experience in Natural Language Processing
+ 
+
+ 
+
+EY | Building a better working world 
+ 
+EY exists to build a better working world, helping to create long-term value for clients, people, and society and build trust in the capital markets.  
+ 
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform, and operate.  
+ 
+Working across assurance, consulting, law, strategy, tax, and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.  

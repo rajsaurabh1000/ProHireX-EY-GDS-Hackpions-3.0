@@ -1,0 +1,93 @@
+At EY, you will have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we are counting on your unique voice and perspective to help EY become even better too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+EY GDS – Data and Analytics (D&A) –Senior – Big Data engineers
+
+As part of our EY-GDS D&A (Data and Analytics) team, we help our clients solve complex business challenges with the help of data and technology. We dive deep into data to extract the greatest value and discover opportunities in key business and functions like Banking, Insurance, Manufacturing, Healthcare, Retail, Manufacturing and Auto, Supply Chain, and Finance.
+
+The opportunity
+
+We’re looking for candidates with strong technology and data understanding in big data engineering space, having proven delivery capability. This is a fantastic opportunity to be part of a leading firm as well as a part of a growing Data and Analytics team.
+
+Your key responsibilities
+
+• Develop & deploy big data pipelines in a cloud environment
+
+• Interact with senior leaders, understand their business goals, contribute to the delivery of the workstreams
+
+• Design and optimize model codes for faster execution
+
+Skills and attributes for success
+
+• Hands on data engineer
+
+• Applying object-oriented and functional programming styles to real-world Big Data Engineering problems using Java/Scala/Python
+
+• Develop data pipelines to perform batch and Real - Time/Stream analytics on structured and unstructured data.
+
+• Data Ingress, Egress, Querying using Kafka, NiFi, Azure data Lake, Azure Databricks (Spark / Streaming).
+
+• Data processing patterns, distributed computing and in building applications for real-time and batch analytics.
+
+• Handling large data sets and perform data wrangling, analysis, etc., using various SQL & NoSQL database technologies, and programming languages such as Java/Scala/Python
+
+• Experience working with NoSQL in at least one of the data stores - HBase, Cassandra, MongoDB
+
+• Hands-on expertise in cloud services like AWS, and/or Microsoft Azure
+
+• Good understanding of different file format (ORC, Parquet, AVRO) to optimize queries/processing and compression techniques
+
+• Demonstrable understanding of high-quality coding and testing practices.
+
+• An appetite to learn new technologies and a drive for continual improvement.
+
+• Have knowledge and skills in DevOps and containerization. Preferable – having deployment knowledge
+
+To qualify for the role, you must have
+
+• Be a computer science graduate or equivalent with 5-8 years of industry experience
+
+• Have working experience in an Agile base delivery methodology (Preferable)
+
+• Flexible and proactive/self-motivated working style with strong personal ownership of problem resolution.
+
+• Excellent communicator (written and verbal formal and informal).
+
+• Participate in all aspects of Big Data solution delivery life cycle including analysis, design, development, testing, production deployment, and support.
+
+Ideally, you’ll also have
+
+• Client management skills
+
+What we look for
+
+• People with technical experience and enthusiasm to learn new things in this fast-moving environment
+
+What working at EY offers
+
+At EY, we’re dedicated to helping our clients, from start–ups to Fortune 500 companies — and the work we do with them is as varied as they are.
+
+You get to work with inspiring and meaningful projects. Our focus is education and coaching alongside practical experience to ensure your personal development. We value our employees and you will be able to control your own development with an individual progression plan. You will quickly grow into a responsible role with challenging and stimulating assignments. Moreover, you will be part of an interdisciplinary environment that emphasizes high quality and knowledge exchange. Plus, we offer:
+
+• Support, coaching and feedback from some of the most engaging colleagues around
+
+• Opportunities to develop new skills and progress your career
+
+• The freedom and flexibility to handle your role in a way that’s right for you
+
+About EY
+
+As a global leader in assurance, tax, transaction and consulting services, we’re using the finance products, expertise and systems we’ve developed to build a better working world. That starts with a culture that believes in giving you the training, opportunities and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we’ll make our ambition to be the best employer by 2020 a reality.
+
+If you can confidently demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+Join us in building a better working world.
+
+Apply now
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people, and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform, and operate.
+
+Working across assurance, consulting, law, strategy, tax, and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today

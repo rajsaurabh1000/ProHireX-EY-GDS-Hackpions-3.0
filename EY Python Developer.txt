@@ -1,0 +1,47 @@
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+Qualifications
+
+
+Software development experience
+Previous working experience as a Python Developer
+Bachelors/master’s degree in computer science, Engineering or a related subject
+Hands on experience with Django, Flask or other Python frameworks
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+Basic understanding of ETL processes / experience in Data management
+Familiarity with ORM (Object Relational Mapper) libraries
+
+Skills
+
+Responsibilities, Qualifications, Certifications - External
+Minimum 6 months of total experience with-hands-on data visualisation /Application development or programming using python 3 on enterprise systems with end-end solution delivery of Data & Analytics applications is essential.
+Good understanding of project architecture and software development processes such as Agile and Scrum
+Experience / understanding of usage of AI principles in data engineering: Dashboard development, Data cleaning/management is required
+Expert in Python, with knowledge of at least one Python web framework {{such as Django, Flask, etc depending on your technology stack}}
+Familiarity with existing ORM (Object Relational Mapper) libraries
+Exposure on pandas and writing high performance systems level code
+Expert on any Python specific IDE’s like Anaconda etc
+Asynchronous REST API integrations and error handling
+Able to integrate multiple data sources and databases into one system
+Prior experience in Data management / Data Integration / ETL using Python : Handled data transformations like Data Types, Calculations, Lookups, Combination, Deduplication etc…
+Understanding of Data warehousing concepts & SQL will be preferred (not mandatory)
+Understanding of the threading limitations of Python, and multi-process architecture
+Hands on experience on writing unit test cases
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
+Knowledge of user authentication and authorisation between multiple systems, servers, and environments
+Understanding of fundamental design principles behind a scalable application
+Familiarity with event-driven programming in Python (messaging queue would be good to have)
+Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimising output to match the specific platform
+Able to create database schemas that represent and support business processes
+Unit test and debugging skills
+Proficient understanding of code versioning tools {{such as Git, Mercurial or SVN}}
+Familiarity with CI/CD principles
+Strong in OOPS and data structure
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.

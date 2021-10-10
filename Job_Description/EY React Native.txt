@@ -1,0 +1,53 @@
+At EY, you will have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we are counting on your unique voice and perspective to help EY become even better too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+Job Description
+
+We are looking for a junior Android developer with solid foundation in enterprise and commercial applications, interested in building highly performant mobile apps with Kotlin and Java. Your primary focus will be on developing user interface and reusable components. You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated expandable design, and quality product is important.
+
+Responsibilities
+• Developing new user interface using Android Java/Kotlin SDK
+• Networking Libraries and integration with third-party frameworks
+• Building reusable components and libraries for future use
+• Translating designs and wireframes into high quality code
+• Ability to optimise the code using instruments, or various techniques of memory profiling
+• Guide the team to follow best industry practices to deliver clean code keeping performance in check
+
+Experience
+• 3 to 5 months experience in Android native with Kotlin and Java
+• UI/UX and architecture skills
+• JSON, REST and Web Services, low energy peripheral devices integration.
+• Jira, Git or other tools
+
+Must have skills
+• In depth knowledge of Kotlin and Java
+• Expertise in Android SDK, Jetpack Libraries, popular 3rd party libraries like Retrofit, Glide, Timber, RxJava etc and APIs used in Android Development
+• Experience in React Native/React/Flutter is a must
+• Knowledge on Dependency Injection Libraries like Dagger/Hilt/Koin
+• Ability to organize large-scale front-end mobile application codebases using common mobile design patterns such as MVVM, MVI, MVP
+• Must have developed apps using Kotlin & Java Interoperability
+• In-depth understanding of dealing with different screen sizes
+• Understanding of interactive application development paradigms, GUI, memory management, file I/O, network & socket programming, concurrency and multi- threading
+• Develop cutting edge functional modules that will be integrated across our Android Application
+• Experience in code versioning tools such as Git or SVN
+• Stay abreast of latest Android platform features and propose evolution of application to take advantage of the same
+• Experience with two-way data synchronisation between client and server database for applications which supports offline capability
+
+Nice to have skills
+• AWS/Azure or any cloud exposure
+• SSO, LDAP, OAuth, SSL integration exposure
+• Experience in Angular 8+, Ionic/Cordova/PhoneGap
+• Experience in emerging technologies such as IoT, AI/ML etc.
+• Awareness of enterprise Mobile Application Management (MAM)/Mobile Device Management (MDM) frameworks such as Microsoft Intune, Citrix Endpoint Management will be a plus
+• More advanced data handlers such as WebSocket’s and Offline mobile applications
+• Awareness of Enterprise mobile applications and data protection policies and methods would be a plus
+
+Work Location :
+• Trivandrum / Kochi / Bangalore
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people, and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform, and operate.
+
+Working across assurance, consulting, law, strategy, tax, and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today

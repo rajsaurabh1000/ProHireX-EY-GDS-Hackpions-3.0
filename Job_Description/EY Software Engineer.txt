@@ -1,0 +1,32 @@
+At EY, you will have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we are counting on your unique voice and perspective to help EY become even better too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+Description
+
+Responsibilities, Qualifications, Certifications
+• Must have strong understanding of the software development life cycle as well as the business approach of the product in Agile/SAFe methodologies and functional testing
+• Extensive experience in Azure Devops/VSTS/ TFS and MTM, CI/CD Model
+• Strong Experience in C#/Java Programming, Selenium WebDriver, JUnit /NUnit and TestNG
+• Develop and enhance hybrid automation framework
+• Experience in Database testing. Experience in Excel macro, formulae
+• Experience in Data driven Testing, Cross browser testing and Parallel Test execution
+• Experience with defect tracking tools and trending
+• Define the scope of testing for Manual and Automation within the context of each sprint/release and delivery.
+• Ensure all development tasks meet quality criteria through test strategy/planning, test execution, quality assurance and issue tracking.
+• Work with stake holders to ensure that the quality metrics is reviewed, closed and agreed upon
+• Proven experience planning, developing and collaborating on test automation frameworks and test suites.
+• Ability to work with a multi-site / co-located multinational team
+• Passion for aligning quality goals to business goals
+• Proven success working collaboratively within cross-functional and intercultural teams based on strong team spirit, solid work ethic and good communication
+• Analyse and mitigate complex problems/issues arising because of test failures, identify bottlenecks, work with development to resolve issues.
+
+Nice-to-have:
+• Experience with pearl, python and XML
+• Experience and Knowledge on Node package manager, Protractor, Jasmine framework, cucumber, JavaScript & Gherkin language
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people, and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform, and operate.
+
+Working across assurance, consulting, law, strategy, tax, and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today
