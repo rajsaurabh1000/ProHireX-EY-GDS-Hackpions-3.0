@@ -23,25 +23,6 @@ In recent years, more and more Jobs are rapidly growing pools of potential candi
 
 When there is large number of Candidates, the Automation can also include a more challenging task: Scoring and Ranking Candidates’ CVs according to their match to a Job Description. This task is implicitly performed by a search engine retrieval model, which computes Ranking based on the keyword match.
 
-## Web Application
-
-### Home Page
-
-<img src='screenshots/home.png'></img>
-
-### Login Page
-
-<img src='screenshots/login.png'></img>
-
-### Select Job Description and start Screening Page
-
-<img src='screenshots/jd1.png'></img>
-<img src='screenshots/jd2.png'></img>
-
-### Result Page
-
-<img src='screenshots/rank.png'></img>
-<img src= 'screenshots/Picture2.png'></img>
 
 ## Instructions
 
