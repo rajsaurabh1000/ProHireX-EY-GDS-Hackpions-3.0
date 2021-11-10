@@ -41,7 +41,7 @@ Python, Flask, Artificial Intelligence, Machine learning, HTML, CSS, Natural Lan
 
 The Main Feature of ProHireX Software is that it screens the entire CV database to select and display the CV, which fit best for the provided Job Description(JD). This is achieved by assigning a Rank to each CV by Intelligently comparing them against the corresponding Job Description.
 
-## Contributor
+## Contributors
 
 - [Saurabh Raj](https://github.com/rajsaurabh1000)
 - Sumit Raj
