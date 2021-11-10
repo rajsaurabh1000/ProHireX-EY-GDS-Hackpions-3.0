@@ -44,3 +44,4 @@ The Main Feature of ProHireX Software is that it screens the entire CV database 
 ## Contributor
 
 - [Saurabh Raj](https://github.com/rajsaurabh1000)
+- [Sumit Raj]
