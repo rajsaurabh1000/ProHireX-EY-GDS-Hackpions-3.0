@@ -24,15 +24,6 @@ In recent years, more and more Jobs are rapidly growing pools of potential candi
 When there is large number of Candidates, the Automation can also include a more challenging task: Scoring and Ranking Candidates’ CVs according to their match to a Job Description. This task is implicitly performed by a search engine retrieval model, which computes Ranking based on the keyword match.
 
 
-## Instructions
-
-1. Clone the repository into your local system.
-2. Extract the downloaded file and open the folder in VS Code.
-3. Open the terminal and then install all the requirements by running - `pip install PyPDF2`, `pip install textract`, `pip install gensim`, `pip install sklearn`, `pip install requests`, `pip install flask`, `pip install numpy`, `pip install pdfminer`, `pip install textract`.
-4. Now run `python app.py`.
-5. Open in the local host by clicking on the `http://localhost:8000/`.
-6. Press CTRL+C to close.
-
 ## Tech Stack
 
 Python, Flask, Artificial Intelligence, Machine learning, HTML, CSS, Natural Language Processing, Beautifulsoup, Natural Language Toolkit (NLTK), Scikit-learn.
