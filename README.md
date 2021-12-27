@@ -1,4 +1,4 @@
-# ProHireX - EY GDS Hackpions 3.0 : CV Screening
+# ProHireX - EY GDS Hackpions 3.0 - Grand Finale First RunnerUp : CV Screening
 <img src='https://he-s3.s3.amazonaws.com/media/cache/36/d8/36d8f29d1ff186f10fae4c07034c8e12.png'></img>
 
 ## Problem Statement
